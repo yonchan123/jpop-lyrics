@@ -1,0 +1,10 @@
+# Paths that must NOT be published to the public yonchan123/jpop-lyrics repo.
+# They are still pushed to the private changyeon/jpop-lyrics repo.
+#
+# One repo-relative path per line (file or folder; trailing "/" optional).
+# Lines starting with "#" and blank lines are ignored. No globs.
+# Applied by scripts/publish.sh — see CLAUDE.md §9.
+
+research/
+# 페스티벌 타임테이블·셋리스트 (개인 관리, 2026-11-15 사용자 지시)
+events/

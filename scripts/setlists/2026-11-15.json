@@ -1,0 +1,3206 @@
+[
+ {
+  "folder": "Poppin'Party - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party「Now Roading♪♪」",
+  "date": "2026-10-10",
+  "venue": "東京ガーデンシアター",
+  "city": "Tokyo, Japan",
+  "source_url": "https://bang-dream.live/lives/13th-live-day1-25013-20261010 (matches official playlist open.spotify.com/playlist/0JNnqPeIZp7900IFayTtd4 and setlist.fm)",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "イントロダクション",
+    "encore": false
+   },
+   {
+    "title": "チェリボム",
+    "encore": false
+   },
+   {
+    "title": "ティアドロップス",
+    "encore": false
+   },
+   {
+    "title": "Happy Happy Party!",
+    "encore": false
+   },
+   {
+    "title": "DOKI DOKI SCARY",
+    "encore": false
+   },
+   {
+    "title": "CiRCLING",
+    "encore": false
+   },
+   {
+    "title": "B.O.F",
+    "encore": false
+   },
+   {
+    "title": "Hello! Wink!",
+    "encore": false
+   },
+   {
+    "title": "スキップ･スランプ･スリッパ",
+    "encore": false
+   },
+   {
+    "title": "世界中の青空をあつめて",
+    "encore": false
+   },
+   {
+    "title": "TARINAI",
+    "encore": false
+   },
+   {
+    "title": "Drive Your Heart",
+    "encore": false
+   },
+   {
+    "title": "Time Lapse",
+    "encore": true
+   },
+   {
+    "title": "キズナミュージック♪",
+    "encore": true
+   }
+  ],
+  "note": "13th☆LIVE 첫날"
+ },
+ {
+  "folder": "Afterglow - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+  "date": "2026-02-28",
+  "venue": "Kアリーナ横浜",
+  "city": "Yokohama, Japan",
+  "source_url": "https://bang-dream.com/news/2302/ (official setlist playlist: open.spotify.com/playlist/5xrzTpqoXZYr4WRz5YM2UQ); cross-checked https://bandori.fans/ja/events/bang-dream-10-th-anniversary-live-in-the-name-of-bang-dream",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "燦々",
+    "encore": false
+   },
+   {
+    "title": "Hey-day狂騒曲",
+    "encore": false
+   },
+   {
+    "title": "Scarlet Sky",
+    "encore": false
+   },
+   {
+    "title": "CiRCLE THANKS MUSiC♪",
+    "encore": false
+   }
+  ],
+  "note": "10주년 합동 라이브 중 Afterglow 파트 + 전원 피날레"
+ },
+ {
+  "folder": "Pastel*Palettes - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+  "date": "2026-02-28",
+  "venue": "Kアリーナ横浜",
+  "city": "Yokohama, Japan",
+  "source_url": "https://bang-dream.com/news/2302/ (official setlist playlist: open.spotify.com/playlist/5xrzTpqoXZYr4WRz5YM2UQ); cross-checked https://bandori.fans/ja/events/bang-dream-10-th-anniversary-live-in-the-name-of-bang-dream",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "天下トーイツA to Z☆",
+    "encore": false
+   },
+   {
+    "title": "しゅわりん☆どり～みん",
+    "encore": false
+   },
+   {
+    "title": "Y.O.L.O！！！！！",
+    "encore": false
+   },
+   {
+    "title": "もういちど ルミナス",
+    "encore": false
+   },
+   {
+    "title": "CiRCLE THANKS MUSiC♪",
+    "encore": false
+   }
+  ],
+  "note": "10주년 합동 라이브 중 파스파레 파트 + 전원 피날레"
+ },
+ {
+  "folder": "Roselia - ALL",
+  "status": "ok",
+  "event": "Roselia「Lehre der Rose」 - Roselia 10th Anniversary Best Album「Lehre der Rose」リリース記念ライブ DAY2",
+  "date": "2026-08-30",
+  "venue": "有明アリーナ",
+  "city": "Tokyo, Japan",
+  "source_url": "https://bang-dream.live/lives/lehre-der-rose-13971-20260830 (matches official DAY2 playlist open.spotify.com/playlist/2SYKiHCqvtX86otSVd1N42 and setlist.fm)",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "Neo-Aspect",
+    "encore": false
+   },
+   {
+    "title": "BRAVE JEWEL",
+    "encore": false
+   },
+   {
+    "title": "Sanctuary",
+    "encore": false
+   },
+   {
+    "title": "陽だまりロードナイト",
+    "encore": false
+   },
+   {
+    "title": "礎の花冠",
+    "encore": false
+   },
+   {
+    "title": "Sprechchor",
+    "encore": false
+   },
+   {
+    "title": "Song I am.",
+    "encore": false
+   },
+   {
+    "title": "Blessing Chord",
+    "encore": false
+   },
+   {
+    "title": "PASSIONATE ANTHEM",
+    "encore": false
+   },
+   {
+    "title": "Avant-garde HISTORY",
+    "encore": false
+   },
+   {
+    "title": "VIOLET LINE",
+    "encore": false
+   },
+   {
+    "title": "ROZEN HORIZON",
+    "encore": false
+   },
+   {
+    "title": "BLACK SHOUT",
+    "encore": true
+   },
+   {
+    "title": "FIRE BIRD",
+    "encore": true
+   }
+  ],
+  "note": "이틀 공연 중 둘째 날"
+ },
+ {
+  "folder": "Hello, Happy World! - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+  "date": "2026-02-28",
+  "venue": "Kアリーナ横浜",
+  "city": "Yokohama, Japan",
+  "source_url": "https://bang-dream.com/news/2302/ (official setlist playlist: open.spotify.com/playlist/5xrzTpqoXZYr4WRz5YM2UQ); cross-checked https://bandori.fans/ja/events/bang-dream-10-th-anniversary-live-in-the-name-of-bang-dream",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "えがおのオーケストラっ！",
+    "encore": false
+   },
+   {
+    "title": "ゴーカ！ごーかい！？ファントムシーフ！",
+    "encore": false
+   },
+   {
+    "title": "サンバロハッピ～！",
+    "encore": false
+   },
+   {
+    "title": "うぃーきゃん☆フレフレっ！",
+    "encore": false
+   },
+   {
+    "title": "CiRCLE THANKS MUSiC♪",
+    "encore": false
+   }
+  ],
+  "note": "10주년 합동 라이브 중 하로하피 파트 + 전원 피날레"
+ },
+ {
+  "folder": "Morfonica - ALL",
+  "status": "ok",
+  "event": "Morfonica LIVE「Movement」",
+  "date": "2026-09-22",
+  "venue": "TACHIKAWA STAGE GARDEN",
+  "city": "Tachikawa, Tokyo, Japan",
+  "source_url": "https://bang-dream.live/lives/morfonica_live_2026-13963-20260922 (matches official playlist open.spotify.com/playlist/1LIwaOq68UbhseNBwJdsG3)",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "誓いのWingbeat",
+    "encore": false
+   },
+   {
+    "title": "Wreath of Brave",
+    "encore": false
+   },
+   {
+    "title": "ブルームブルーム",
+    "encore": false
+   },
+   {
+    "title": "Polyphonyscape",
+    "encore": false
+   },
+   {
+    "title": "ビューティ・フォー",
+    "encore": false
+   },
+   {
+    "title": "カラフルリバティー",
+    "encore": false
+   },
+   {
+    "title": "寄る辺のSunny, Sunny",
+    "encore": false
+   },
+   {
+    "title": "メランコリックララバイ",
+    "encore": false
+   },
+   {
+    "title": "両翼のBrilliance",
+    "encore": false
+   },
+   {
+    "title": "Tempest",
+    "encore": false
+   },
+   {
+    "title": "ティリカモニカリラ",
+    "encore": false
+   },
+   {
+    "title": "Sweet Cheers!",
+    "encore": false
+   },
+   {
+    "title": "Merry Merry Thanks!!",
+    "encore": false
+   },
+   {
+    "title": "Shining Leaves",
+    "encore": false
+   },
+   {
+    "title": "flame of hope",
+    "encore": true
+   },
+   {
+    "title": "Resonant Strings",
+    "encore": true
+   }
+  ],
+  "note": ""
+ },
+ {
+  "folder": "RAISE A SUILEN - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 13th☆LIVE DAY3 : RAISE A SUILEN「EXTREME EXPRESS」",
+  "date": "2026-10-12",
+  "venue": "東京ガーデンシアター",
+  "city": "Tokyo, Japan",
+  "source_url": "https://bang-dream.live/lives/ras-extreame-express (matches setlist.fm; official playlist leaves out the 2 songs not yet released)",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "WHAT AN EXPLOSION",
+    "encore": false
+   },
+   {
+    "title": "Repaint",
+    "encore": false
+   },
+   {
+    "title": "HOWLING AMBITION",
+    "encore": false
+   },
+   {
+    "title": "RUNAWAY STAR",
+    "encore": false
+   },
+   {
+    "title": "Ray of hope",
+    "encore": false
+   },
+   {
+    "title": "I AM WHO I AM",
+    "encore": false
+   },
+   {
+    "title": "BIBIBABI BRAVER",
+    "encore": false
+   },
+   {
+    "title": "JUST THE WAY I AM",
+    "encore": false
+   },
+   {
+    "title": "WELCOME TO PANDEMONIUM",
+    "encore": false
+   },
+   {
+    "title": "V.I.P MONSTER",
+    "encore": false
+   },
+   {
+    "title": "A DECLARATION OF ×××",
+    "encore": false
+   },
+   {
+    "title": "Invincible Fighter",
+    "encore": false
+   },
+   {
+    "title": "EXPOSE 'Burn out!!!'",
+    "encore": false
+   },
+   {
+    "title": "HELL! or HELL?",
+    "encore": false
+   },
+   {
+    "title": "DRIVE US CRAZY",
+    "encore": true
+   },
+   {
+    "title": "OUTSIDER RODEO",
+    "encore": true
+   }
+  ],
+  "note": "13th☆LIVE 셋째 날. 미발매곡 2곡 포함"
+ },
+ {
+  "folder": "MyGO!!!!! - ALL",
+  "status": "ok",
+  "event": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 - DAY1",
+  "date": "2026-11-14",
+  "venue": "ワールド記念ホール（神戸ポートアイランドホール）",
+  "city": "Kobe, Japan",
+  "source_url": "https://www.setlist.fm/setlist/mygo/2026/world-kinen-hall-kobe-japan-6b704e8e.html (order, romanized) + https://www.livefans.jp/events/1978448 (Japanese titles, same 17 songs)",
+  "source_type": "setlist.fm",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "羅永線",
+    "encore": false
+   },
+   {
+    "title": "明弦音",
+    "encore": false
+   },
+   {
+    "title": "残痕字",
+    "encore": false
+   },
+   {
+    "title": "掌心正銘",
+    "encore": false
+   },
+   {
+    "title": "砂寸奏",
+    "encore": false
+   },
+   {
+    "title": "潜在表明",
+    "encore": false
+   },
+   {
+    "title": "夜隠染",
+    "encore": false
+   },
+   {
+    "title": "輪符雨",
+    "encore": false
+   },
+   {
+    "title": "孤壊牢",
+    "encore": false
+   },
+   {
+    "title": "歌いましょう鳴らしましょう",
+    "encore": false
+   },
+   {
+    "title": "証命讃歌",
+    "encore": false
+   },
+   {
+    "title": "聿日箋秋",
+    "encore": false
+   },
+   {
+    "title": "迷星叫",
+    "encore": false
+   },
+   {
+    "title": "歩拾道",
+    "encore": false
+   },
+   {
+    "title": "世点彩",
+    "encore": false
+   },
+   {
+    "title": "影色舞",
+    "encore": true
+   },
+   {
+    "title": "往欄印",
+    "encore": true
+   }
+  ],
+  "note": "9th LIVE 첫날. 「世点彩」은 11/11 신곡이라 아직 미수록"
+ },
+ {
+  "folder": "Ave Mujica - ALL",
+  "status": "ok",
+  "event": "Ave Mujica 7th LIVE「Virtus」DAY2",
+  "date": "2026-10-25",
+  "venue": "京王アリーナ TOKYO",
+  "city": "Chofu, Tokyo, Japan",
+  "source_url": "https://bang-dream.live/lives/avemujica-virtus-day2 (matches official DAY2 playlist open.spotify.com/playlist/66BO6QGjVXWDVFhugXDTgR and setlist.fm)",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "神の名を",
+    "encore": false
+   },
+   {
+    "title": "Symbol I : △",
+    "encore": false
+   },
+   {
+    "title": "ふたつの月 ~Deep Into The Forest~",
+    "encore": false
+   },
+   {
+    "title": "Symbol II : Air",
+    "encore": false
+   },
+   {
+    "title": "Georgette Me, Georgette You",
+    "encore": false
+   },
+   {
+    "title": "黒のバースデイ",
+    "encore": false
+   },
+   {
+    "title": "‘S/’ The Way",
+    "encore": false
+   },
+   {
+    "title": "Mas?uerade Rhapsody Re?uest",
+    "encore": false
+   },
+   {
+    "title": "Symbol III : ▽",
+    "encore": false
+   },
+   {
+    "title": "八芒星ダンス",
+    "encore": false
+   },
+   {
+    "title": "顔",
+    "encore": false
+   },
+   {
+    "title": "DIVINE",
+    "encore": false
+   },
+   {
+    "title": "BADDY BADDY",
+    "encore": false
+   },
+   {
+    "title": "Sophie",
+    "encore": false
+   },
+   {
+    "title": "KiLLKiSS",
+    "encore": false
+   },
+   {
+    "title": "Ether",
+    "encore": false
+   },
+   {
+    "title": "The Whole Blue World",
+    "encore": false
+   },
+   {
+    "title": "A Song Of Romance",
+    "encore": false
+   }
+  ],
+  "note": "이틀 공연 중 둘째 날"
+ },
+ {
+  "folder": "夢限大みゅーたいぷ - ALL",
+  "status": "ok",
+  "event": "BanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」",
+  "date": "2026-10-11",
+  "venue": "東京ガーデンシアター",
+  "city": "Tokyo, Japan",
+  "source_url": "official playlist open.spotify.com/playlist/3p42q0GDJaD68uJFYqCz0E (via https://bang-dream.com/news/2434/) + https://bang-dream.live/lives/13th-live-day2-25616-20261011 (encore split, medley)",
+  "source_type": "official",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "TearJerker",
+    "encore": false
+   },
+   {
+    "title": "超惑星Xへの旅",
+    "encore": false
+   },
+   {
+    "title": "夢現妄想世界",
+    "encore": false
+   },
+   {
+    "title": "チューニング",
+    "encore": false
+   },
+   {
+    "title": "真夜中遊園地",
+    "encore": false
+   },
+   {
+    "title": "LET'Sあちあちトレーニング！",
+    "encore": false
+   },
+   {
+    "title": "in my words",
+    "encore": false
+   },
+   {
+    "title": "どんがらがっしゃん",
+    "encore": false
+   },
+   {
+    "title": "みゅーたんとミュータント",
+    "encore": false
+   },
+   {
+    "title": "✞animaるパーティ✞開催中✞",
+    "encore": false
+   },
+   {
+    "title": "エンプティパペット",
+    "encore": false
+   },
+   {
+    "title": "限界現実サバイブ天使",
+    "encore": false
+   },
+   {
+    "title": "ビッグマウス",
+    "encore": false
+   },
+   {
+    "title": "コハク",
+    "encore": false
+   },
+   {
+    "title": "コミュ着火Fire!",
+    "encore": false
+   },
+   {
+    "title": "うちゅうのふしぎ",
+    "encore": true
+   },
+   {
+    "title": "これはぼくたちの生存のあらすじ",
+    "encore": true
+   },
+   {
+    "title": "愛は衝動",
+    "encore": true
+   }
+  ],
+  "note": "13th☆LIVE 둘째 날. 4곡은 짧은 메들리"
+ },
+ {
+  "folder": "Ado - ALL",
+  "status": "ok",
+  "event": "お前ら起きろ！Adoのドキドキ秘密基地 作戦本部大集合（Adoのドキドキ秘密基地 有料会員様限定LIVE）DAY2",
+  "date": "2026-10-25",
+  "venue": "国立代々木競技場 第一体育館",
+  "city": "Tokyo",
+  "source_url": "https://www.setlist.fm/setlist/ado/2026/yoyogi-daiichi-taiikukan-tokyo-japan-1373c1fd.html",
+  "source_type": "setlist.fm",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "うっせぇわ",
+    "encore": false
+   },
+   {
+    "title": "踊",
+    "encore": false
+   },
+   {
+    "title": "唱",
+    "encore": false
+   },
+   {
+    "title": "ウタカタララバイ",
+    "encore": false
+   },
+   {
+    "title": "ドメスティックでバイオレンス",
+    "encore": false
+   },
+   {
+    "title": "シカバネーゼ",
+    "encore": false
+   },
+   {
+    "title": "聖槍爆裂ボーイ",
+    "encore": false
+   },
+   {
+    "title": "ゲレンデがとけるほど恋したい",
+    "encore": false
+   },
+   {
+    "title": "Hello Signals",
+    "encore": false
+   },
+   {
+    "title": "心という名の不可解",
+    "encore": false
+   },
+   {
+    "title": "患者A",
+    "encore": false
+   }
+  ],
+  "note": "팬클럽 한정 공연 둘째 날. 첫날과 2곡이 다름"
+ },
+ {
+  "folder": "YOASOBI - ALL",
+  "status": "ok",
+  "event": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027 \"超惑星\" 札幌公演 DAY1",
+  "date": "2026-11-14",
+  "venue": "大和ハウス プレミストドーム（札幌ドーム）",
+  "city": "Sapporo",
+  "source_url": "https://mupop.hatenablog.com/entry/yoasobi2026sapporo",
+  "source_type": "blog",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "祝福",
+    "encore": false
+   },
+   {
+    "title": "UNDEAD",
+    "encore": false
+   },
+   {
+    "title": "怪物",
+    "encore": false
+   },
+   {
+    "title": "大正浪漫",
+    "encore": false
+   },
+   {
+    "title": "劇上",
+    "encore": false
+   },
+   {
+    "title": "アドレナ",
+    "encore": false
+   },
+   {
+    "title": "PLAYERS",
+    "encore": false
+   },
+   {
+    "title": "ハルカ",
+    "encore": false
+   },
+   {
+    "title": "優しい彗星",
+    "encore": false
+   },
+   {
+    "title": "BABY",
+    "encore": false
+   },
+   {
+    "title": "アンコール",
+    "encore": false
+   },
+   {
+    "title": "オリオン",
+    "encore": false
+   },
+   {
+    "title": "勇者",
+    "encore": false
+   },
+   {
+    "title": "HEART BEAT",
+    "encore": false
+   },
+   {
+    "title": "あの夢をなぞって",
+    "encore": false
+   },
+   {
+    "title": "セブンティーン",
+    "encore": false
+   },
+   {
+    "title": "アイドル",
+    "encore": false
+   },
+   {
+    "title": "群青",
+    "encore": false
+   },
+   {
+    "title": "咲き誇れ",
+    "encore": false
+   },
+   {
+    "title": "Watch me！",
+    "encore": true
+   },
+   {
+    "title": "アドベンチャー",
+    "encore": true
+   },
+   {
+    "title": "KILLA",
+    "encore": true
+   },
+   {
+    "title": "夜に駆ける",
+    "encore": true
+   }
+  ],
+  "note": "돔 투어 삿포로 첫날. 8번째 곡은 공연마다 바뀜. 11번 「アンコール」는 곡 제목"
+ },
+ {
+  "folder": "ずっと真夜中でいいのに。 - ALL",
+  "status": "ok",
+  "event": "特別公演祭 LEGACY ZOMBIE LABO『文禍伝雷』奈良・平城京 DAY2",
+  "date": "2026-10-11",
+  "venue": "平城宮跡歴史公園 中央区朝堂院 特設野外会場",
+  "city": "Nara",
+  "source_url": "https://www.setlist.fm/setlist/zutomayo/2026/heijou-kyuu-shiseki-rekishi-kouen-nara-japan-5b72ff3c.html",
+  "source_type": "setlist.fm",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "地球存在しない説",
+    "encore": false
+   },
+   {
+    "title": "胸の煙",
+    "encore": false
+   },
+   {
+    "title": "ハゼ馳せる果てるまで",
+    "encore": false
+   },
+   {
+    "title": "秒針を噛む",
+    "encore": false
+   },
+   {
+    "title": "TAIDADA",
+    "encore": false
+   },
+   {
+    "title": "不死身の訓練",
+    "encore": false
+   },
+   {
+    "title": "海馬成長痛",
+    "encore": false
+   },
+   {
+    "title": "彷徨い酔い温度",
+    "encore": false
+   },
+   {
+    "title": "機械油",
+    "encore": false
+   },
+   {
+    "title": "正しくなれない",
+    "encore": false
+   },
+   {
+    "title": "サターン",
+    "encore": false
+   },
+   {
+    "title": "MILABO",
+    "encore": false
+   },
+   {
+    "title": "猫リセット",
+    "encore": false
+   },
+   {
+    "title": "せんとくんなら知っている",
+    "encore": false
+   },
+   {
+    "title": "ultra魂",
+    "encore": false
+   },
+   {
+    "title": "ミラーチューン",
+    "encore": false
+   },
+   {
+    "title": "イチジク煙",
+    "encore": false
+   },
+   {
+    "title": "夏枯れ",
+    "encore": false
+   },
+   {
+    "title": "綺羅キラー",
+    "encore": false
+   },
+   {
+    "title": "メディアノーチェ",
+    "encore": false
+   },
+   {
+    "title": "あいつら全員同窓会",
+    "encore": false
+   },
+   {
+    "title": "暗く黒く",
+    "encore": false
+   },
+   {
+    "title": "lowmotion algae",
+    "encore": false
+   },
+   {
+    "title": "あかねさす頃",
+    "encore": false
+   }
+  ],
+  "note": "헤이조쿄 야외 특별 공연 둘째 날. 메들리는 곡별로 나눔"
+ },
+ {
+  "folder": "ヨルシカ - ALL",
+  "status": "ok",
+  "event": "ヨルシカ LIVE TOUR 2026「一人称」 千葉公演 DAY2 (tour final)",
+  "date": "2026-09-16",
+  "venue": "LaLa arena TOKYO-BAY",
+  "city": "Funabashi",
+  "source_url": "https://www.setlist.fm/setlist/yorushika/2026/lala-arena-tokyo-bay-funabashi-japan-4b769fbe.html",
+  "source_type": "setlist.fm",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "晴る",
+    "encore": false
+   },
+   {
+    "title": "花も騒めく",
+    "encore": false
+   },
+   {
+    "title": "魔性",
+    "encore": false
+   },
+   {
+    "title": "ポスト春",
+    "encore": false
+   },
+   {
+    "title": "プレイシック",
+    "encore": false
+   },
+   {
+    "title": "修羅",
+    "encore": false
+   },
+   {
+    "title": "火星人",
+    "encore": false
+   },
+   {
+    "title": "ヒッチコック",
+    "encore": false
+   },
+   {
+    "title": "へび",
+    "encore": false
+   },
+   {
+    "title": "アポリア",
+    "encore": false
+   },
+   {
+    "title": "火葬",
+    "encore": false
+   },
+   {
+    "title": "雲になる",
+    "encore": false
+   },
+   {
+    "title": "太陽",
+    "encore": false
+   },
+   {
+    "title": "啄木鳥",
+    "encore": false
+   },
+   {
+    "title": "千鳥",
+    "encore": false
+   },
+   {
+    "title": "櫂",
+    "encore": false
+   }
+  ],
+  "note": "투어 파이널"
+ },
+ {
+  "folder": "なとり - ALL",
+  "status": "ok",
+  "event": "なとり ONE-MAN LIVE TOUR「行進」 広島公演 (regional final)",
+  "date": "2026-10-31",
+  "venue": "広島文化学園HBGホール",
+  "city": "Hiroshima",
+  "source_url": "https://www.livefans.jp/events/1900579",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "聖者たち",
+    "encore": false
+   },
+   {
+    "title": "恋する季節",
+    "encore": false
+   },
+   {
+    "title": "バースデイ・ソング",
+    "encore": false
+   },
+   {
+    "title": "EAT",
+    "encore": false
+   },
+   {
+    "title": "金木犀",
+    "encore": false
+   },
+   {
+    "title": "Cult.",
+    "encore": false
+   },
+   {
+    "title": "プロポーズ",
+    "encore": false
+   },
+   {
+    "title": "セレナーデ",
+    "encore": false
+   },
+   {
+    "title": "帰りの会",
+    "encore": false
+   },
+   {
+    "title": "エウレカ",
+    "encore": false
+   },
+   {
+    "title": "Puppet",
+    "encore": false
+   },
+   {
+    "title": "リビングデッド",
+    "encore": false
+   },
+   {
+    "title": "Sleepwalk",
+    "encore": false
+   },
+   {
+    "title": "非常口 逃げてみた",
+    "encore": false
+   },
+   {
+    "title": "Overdose",
+    "encore": false
+   },
+   {
+    "title": "IN_MY_HEAD",
+    "encore": false
+   },
+   {
+    "title": "ヘルプミーテイクミー",
+    "encore": false
+   },
+   {
+    "title": "ポルターガイスト",
+    "encore": false
+   },
+   {
+    "title": "絶対零度",
+    "encore": false
+   }
+  ],
+  "note": "투어 히로시마 공연. 곡 순서는 팬 기록 하나뿐이라 확인 안 됨"
+ },
+ {
+  "folder": "ano - ALL",
+  "status": "ok",
+  "event": "ano LIVE in SEOUL, KOREA 2026 DAY2",
+  "date": "2026-10-18",
+  "venue": "BLUE SQUARE ウリWONバンキングホール",
+  "city": "Seoul",
+  "source_url": "https://www.setlist.fm/setlist/ano/2026/blue-square-woori-won-banking-hall-seoul-south-korea-737c3e21.html",
+  "source_type": "setlist.fm",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "Past die Future",
+    "encore": false
+   },
+   {
+    "title": "スマイルあげない",
+    "encore": false
+   },
+   {
+    "title": "愛してる、なんてね。",
+    "encore": false
+   },
+   {
+    "title": "コミュ賞センセーション",
+    "encore": false
+   },
+   {
+    "title": "普変",
+    "encore": false
+   },
+   {
+    "title": "KILL LOVE",
+    "encore": false
+   },
+   {
+    "title": "この世界に二人だけ",
+    "encore": false
+   },
+   {
+    "title": "YOU&愛Heaven",
+    "encore": false
+   },
+   {
+    "title": "ハッピーラッキーチャッピー",
+    "encore": false
+   },
+   {
+    "title": "SWEETSIDE SUICIDE",
+    "encore": false
+   },
+   {
+    "title": "ラブにダイブ",
+    "encore": false
+   },
+   {
+    "title": "愛晩餐",
+    "encore": false
+   },
+   {
+    "title": "キライのちスキ！",
+    "encore": false
+   },
+   {
+    "title": "ちゅ、多様性。",
+    "encore": false
+   },
+   {
+    "title": "Bubble Me Face",
+    "encore": false
+   },
+   {
+    "title": "絶絶絶絶対聖域",
+    "encore": false
+   },
+   {
+    "title": "AIDA",
+    "encore": false
+   },
+   {
+    "title": "ミッドナイト全部大丈夫",
+    "encore": false
+   },
+   {
+    "title": "ロりロっきゅんロぼ♡",
+    "encore": false
+   },
+   {
+    "title": "貸しっぱなしデスティニー",
+    "encore": false
+   },
+   {
+    "title": "許婚っきゅん",
+    "encore": true
+   },
+   {
+    "title": "ピカレスクヒーロー",
+    "encore": true
+   }
+  ],
+  "note": "서울 공연 둘째 날"
+ },
+ {
+  "folder": "Aooo - ALL",
+  "status": "ok",
+  "event": "Aooo 3rd Anniversary Event \"KOPIBAAAN!!!!\"",
+  "date": "2026-09-20",
+  "venue": "代官山SPACE ODD",
+  "city": "Tokyo",
+  "source_url": "https://www.setlist.fm/setlist/aooo/2026/space-odd-tokyo-japan-2b7eac36.html",
+  "source_type": "setlist.fm",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "アパシー",
+    "encore": false
+   },
+   {
+    "title": "サラダボウル",
+    "encore": false
+   },
+   {
+    "title": "イエロートイ",
+    "encore": false
+   },
+   {
+    "title": "星間飛行",
+    "encore": false
+   },
+   {
+    "title": "FLASH FORWARD",
+    "encore": false
+   },
+   {
+    "title": "BAQN",
+    "encore": false
+   },
+   {
+    "title": "CALL",
+    "encore": false
+   },
+   {
+    "title": "CRAZZZY",
+    "encore": false
+   },
+   {
+    "title": "エイプリル",
+    "encore": false
+   },
+   {
+    "title": "水中少女",
+    "encore": false
+   },
+   {
+    "title": "Yankeeee",
+    "encore": false
+   },
+   {
+    "title": "リピート",
+    "encore": true
+   },
+   {
+    "title": "ポラリス",
+    "encore": true
+   }
+  ],
+  "note": "3주년 이벤트. 11/22 부도칸 원맨 예정"
+ },
+ {
+  "folder": "MAISONdes - ALL",
+  "status": "ok",
+  "event": "CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026 (Echoes Baa 2026)",
+  "date": "2026-04-05",
+  "venue": "横浜赤レンガ倉庫 赤レンガパーク特設会場",
+  "city": "Yokohama",
+  "source_url": "https://www.setlist.fm/setlist/maisondes/2026/yokohama-akarenga-sko-yokohama-japan-434befab.html",
+  "source_type": "setlist.fm",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "アイワナムチュー",
+    "encore": false
+   },
+   {
+    "title": "Koi no Iutoori",
+    "encore": false
+   },
+   {
+    "title": "Furi",
+    "encore": false
+   },
+   {
+    "title": "いたいの、いたいの、とんでいけ",
+    "encore": false
+   },
+   {
+    "title": "けーたいみしてよ",
+    "encore": false
+   },
+   {
+    "title": "ならない日々",
+    "encore": false
+   },
+   {
+    "title": "バイマイダーリン",
+    "encore": false
+   },
+   {
+    "title": "アイウエ",
+    "encore": false
+   },
+   {
+    "title": "トウキョウ・シャンディ・ランデヴ",
+    "encore": false
+   },
+   {
+    "title": "ヨワネハキ",
+    "encore": false
+   }
+  ],
+  "note": "자체 공연 셋리스트가 이미지로만 있어 페스티벌 무대로 대신함"
+ },
+ {
+  "folder": "SHISHAMO - ALL",
+  "status": "ok",
+  "event": "SHISHAMO THE FINAL!!! 〜Thanks for everything〜 GOODBYE DAY",
+  "date": "2026-06-14",
+  "venue": "Uvanceとどろきスタジアム by Fujitsu（等々力陸上競技場）",
+  "city": "Kawasaki, Kanagawa",
+  "source_url": "https://shishamo.biz/news/detail/6135",
+  "source_type": "official",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "君と夏フェス",
+    "encore": false
+   },
+   {
+    "title": "夏恋注意報",
+    "encore": false
+   },
+   {
+    "title": "好き好き！",
+    "encore": false
+   },
+   {
+    "title": "生きるガール",
+    "encore": false
+   },
+   {
+    "title": "量産型彼氏",
+    "encore": false
+   },
+   {
+    "title": "ハリボテ",
+    "encore": false
+   },
+   {
+    "title": "はなればなれでも",
+    "encore": false
+   },
+   {
+    "title": "真夜中、リビング、電気を消して。",
+    "encore": false
+   },
+   {
+    "title": "きっとあの漫画のせい",
+    "encore": false
+   },
+   {
+    "title": "水色の日々",
+    "encore": false
+   },
+   {
+    "title": "夏の恋人",
+    "encore": false
+   },
+   {
+    "title": "ハッピーエンド",
+    "encore": false
+   },
+   {
+    "title": "夢で逢う",
+    "encore": false
+   },
+   {
+    "title": "運命と呼んでもいいですか",
+    "encore": false
+   },
+   {
+    "title": "狙うは君のど真ん中",
+    "encore": false
+   },
+   {
+    "title": "最高速度",
+    "encore": false
+   },
+   {
+    "title": "タオル",
+    "encore": false
+   },
+   {
+    "title": "OH！",
+    "encore": false
+   },
+   {
+    "title": "恋する",
+    "encore": false
+   },
+   {
+    "title": "またね",
+    "encore": true
+   },
+   {
+    "title": "恋じゃなかったら",
+    "encore": true
+   },
+   {
+    "title": "メトロ",
+    "encore": true
+   },
+   {
+    "title": "明日も",
+    "encore": true
+   },
+   {
+    "title": "明日はない",
+    "encore": true
+   },
+   {
+    "title": "僕に彼女ができたんだ",
+    "encore": true
+   }
+  ],
+  "note": "해산 전 마지막 공연(이틀 중 둘째 날). 공식 블루레이 수록 순"
+ },
+ {
+  "folder": "緑黄色社会 - ALL",
+  "status": "ok",
+  "event": "緑黄色社会 ARENA TOUR 2026 \"あたまご\"",
+  "date": "2026-11-14",
+  "venue": "IGアリーナ",
+  "city": "Nagoya, Aichi",
+  "source_url": "https://www.livefans.jp/events/1921165",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "風に乗る",
+    "encore": false
+   },
+   {
+    "title": "illusion",
+    "encore": false
+   },
+   {
+    "title": "揺れる",
+    "encore": false
+   },
+   {
+    "title": "レジスダンス",
+    "encore": false
+   },
+   {
+    "title": "My Answer",
+    "encore": false
+   },
+   {
+    "title": "サマータイムシンデレラ",
+    "encore": false
+   },
+   {
+    "title": "アルゴリズム",
+    "encore": false
+   },
+   {
+    "title": "Mela!",
+    "encore": false
+   },
+   {
+    "title": "始まりの歌",
+    "encore": false
+   },
+   {
+    "title": "恥ずかしいか青春は",
+    "encore": false
+   },
+   {
+    "title": "分かりにくい",
+    "encore": false
+   },
+   {
+    "title": "うたまご",
+    "encore": false
+   },
+   {
+    "title": "誰かの国",
+    "encore": false
+   },
+   {
+    "title": "TABOO",
+    "encore": false
+   },
+   {
+    "title": "花になって",
+    "encore": false
+   },
+   {
+    "title": "キャラクター",
+    "encore": false
+   },
+   {
+    "title": "晴々",
+    "encore": false
+   },
+   {
+    "title": "Shout Baby",
+    "encore": true
+   },
+   {
+    "title": "章",
+    "encore": true
+   }
+  ],
+  "note": "아레나 투어 진행 중. 날짜별로 바뀔 수 있음"
+ },
+ {
+  "folder": "リーガルリリー - ALL",
+  "status": "ok",
+  "event": "リーガルリリー \"Dawn\"",
+  "date": "2026-10-31",
+  "venue": "広島CLUB QUATTRO",
+  "city": "Hiroshima",
+  "source_url": "https://www.livefans.jp/events/1952031",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "17",
+    "encore": false
+   },
+   {
+    "title": "1997",
+    "encore": false
+   },
+   {
+    "title": "60W",
+    "encore": false
+   },
+   {
+    "title": "惑星トラッシュ",
+    "encore": false
+   },
+   {
+    "title": "danceasphalt",
+    "encore": false
+   },
+   {
+    "title": "bedtime story",
+    "encore": false
+   },
+   {
+    "title": "アルケミラ",
+    "encore": false
+   },
+   {
+    "title": "海月星",
+    "encore": false
+   },
+   {
+    "title": "9mmの花",
+    "encore": false
+   },
+   {
+    "title": "高速道路",
+    "encore": false
+   },
+   {
+    "title": "まわるよ",
+    "encore": false
+   },
+   {
+    "title": "セイントアンガー",
+    "encore": false
+   },
+   {
+    "title": "天きりん",
+    "encore": false
+   },
+   {
+    "title": "キラキラの灰",
+    "encore": false
+   },
+   {
+    "title": "リッケンバッカー",
+    "encore": false
+   },
+   {
+    "title": "コニファー",
+    "encore": false
+   },
+   {
+    "title": "ニコの涙",
+    "encore": false
+   },
+   {
+    "title": "ますように",
+    "encore": false
+   },
+   {
+    "title": "ノーワー",
+    "encore": true
+   },
+   {
+    "title": "蛍狩り",
+    "encore": true
+   }
+  ],
+  "note": "투어 히로시마 공연. 날짜별로 순서가 바뀜"
+ },
+ {
+  "folder": "ネクライトーキー - ALL",
+  "status": "ok",
+  "event": "ネクライトーキーメジャーデビュー5周年単独記念公演「〆」",
+  "date": "2026-01-27",
+  "venue": "Zepp DiverCity",
+  "city": "Tokyo",
+  "source_url": "https://www.livefans.jp/events/1820396",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "北上のススメ",
+    "encore": false
+   },
+   {
+    "title": "モブなりのカンフー",
+    "encore": false
+   },
+   {
+    "title": "気になっていく",
+    "encore": false
+   },
+   {
+    "title": "こんがらがった!",
+    "encore": false
+   },
+   {
+    "title": "悪態なんかついちまうぜ",
+    "encore": false
+   },
+   {
+    "title": "レイニーレイニー",
+    "encore": false
+   },
+   {
+    "title": "ジャックポットなら踊らにゃソンソン",
+    "encore": false
+   },
+   {
+    "title": "許せ!服部",
+    "encore": false
+   },
+   {
+    "title": "そういうものでしょう?",
+    "encore": false
+   },
+   {
+    "title": "大事なものは大事にできたら",
+    "encore": false
+   },
+   {
+    "title": "bloom",
+    "encore": false
+   },
+   {
+    "title": "ふざけてないぜ",
+    "encore": false
+   },
+   {
+    "title": "あべこべ",
+    "encore": false
+   },
+   {
+    "title": "(新曲)",
+    "encore": false
+   },
+   {
+    "title": "ら行が言えない、言葉が足りない",
+    "encore": false
+   },
+   {
+    "title": "怠惰でいいナ",
+    "encore": false
+   },
+   {
+    "title": "サカナぐらし",
+    "encore": false
+   },
+   {
+    "title": "ちょうぐにゃぐにゃ",
+    "encore": false
+   },
+   {
+    "title": "君はいなせなガール",
+    "encore": false
+   },
+   {
+    "title": "オシャレ大作戦",
+    "encore": false
+   },
+   {
+    "title": "だれかとぼくら",
+    "encore": false
+   },
+   {
+    "title": "明日にだって",
+    "encore": true
+   },
+   {
+    "title": "遠吠えのサンセット",
+    "encore": true
+   }
+  ],
+  "note": "5주년 원맨. 미발표 신곡 1곡 포함"
+ },
+ {
+  "folder": "ポルカドットスティングレイ - ALL",
+  "status": "ok",
+  "event": "ポルフェス122 #教祖爆誕 ワンマン",
+  "date": "2026-10-15",
+  "venue": "Zepp Haneda",
+  "city": "Tokyo",
+  "source_url": "https://www.livefans.jp/events/1995825",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "女神",
+    "encore": false
+   },
+   {
+    "title": "テレキャスター・ストライプ",
+    "encore": false
+   },
+   {
+    "title": "夜明けのオレンジ",
+    "encore": false
+   },
+   {
+    "title": "Boy Boy",
+    "encore": false
+   },
+   {
+    "title": "シンクロニシカ",
+    "encore": false
+   },
+   {
+    "title": "化身",
+    "encore": false
+   },
+   {
+    "title": "Na～Na",
+    "encore": false
+   },
+   {
+    "title": "ICHIDAIJI",
+    "encore": false
+   },
+   {
+    "title": "逆様",
+    "encore": false
+   },
+   {
+    "title": "人魚",
+    "encore": false
+   },
+   {
+    "title": "SURF",
+    "encore": false
+   },
+   {
+    "title": "アウト",
+    "encore": false
+   },
+   {
+    "title": "ゴーストダイブ",
+    "encore": false
+   },
+   {
+    "title": "DENKOUSEKKA",
+    "encore": false
+   },
+   {
+    "title": "キラーレコード",
+    "encore": false
+   },
+   {
+    "title": "ラブコール",
+    "encore": false
+   },
+   {
+    "title": "無礼な!",
+    "encore": true
+   },
+   {
+    "title": "JO-DEKI",
+    "encore": true
+   }
+  ],
+  "note": ""
+ },
+ {
+  "folder": "ブランデー戦記 - ALL",
+  "status": "ok",
+  "event": "BRANDY SENKI TOUR 2026",
+  "date": "2026-11-01",
+  "venue": "THE BOTTOM LINE",
+  "city": "Nagoya, Aichi",
+  "source_url": "https://www.livefans.jp/events/1922093",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "Twin Ray",
+    "encore": false
+   },
+   {
+    "title": "The end of the F***ing World",
+    "encore": false
+   },
+   {
+    "title": "悪夢のような",
+    "encore": false
+   },
+   {
+    "title": "ストックホルムの箱",
+    "encore": false
+   },
+   {
+    "title": "黒い帽子",
+    "encore": false
+   },
+   {
+    "title": "27:00",
+    "encore": false
+   },
+   {
+    "title": "もういらない",
+    "encore": false
+   },
+   {
+    "title": "赤いワインに涙が・・・",
+    "encore": false
+   },
+   {
+    "title": "Kids",
+    "encore": false
+   },
+   {
+    "title": "水鏡",
+    "encore": false
+   },
+   {
+    "title": "Fix",
+    "encore": false
+   },
+   {
+    "title": "春",
+    "encore": false
+   },
+   {
+    "title": "ラストライブ",
+    "encore": false
+   },
+   {
+    "title": "土曜日:高慢",
+    "encore": false
+   },
+   {
+    "title": "僕のスウィーティー",
+    "encore": false
+   },
+   {
+    "title": "ブラッド♡スパークス",
+    "encore": false
+   },
+   {
+    "title": "Musica",
+    "encore": false
+   },
+   {
+    "title": "Coming-of-age Story",
+    "encore": false
+   }
+  ],
+  "note": "투어 나고야 공연. 앙코르 표시 없음"
+ },
+ {
+  "folder": "CHOQMAY - ALL",
+  "status": "ok",
+  "event": "チョーキューメイ 結成6周年記念公演 「6年前の雨予報」",
+  "date": "2026-06-22",
+  "venue": "shibuya eggman",
+  "city": "Tokyo",
+  "source_url": "https://www.livefans.jp/events/2010082",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "sister",
+    "encore": false
+   },
+   {
+    "title": "私の王子様",
+    "encore": false
+   },
+   {
+    "title": "故のLOVE",
+    "encore": false
+   },
+   {
+    "title": "shadow boxing",
+    "encore": false
+   },
+   {
+    "title": "おやすみパパママ",
+    "encore": false
+   },
+   {
+    "title": "遊泳禁止、天ノ川",
+    "encore": false
+   },
+   {
+    "title": "眠れる姫",
+    "encore": false
+   },
+   {
+    "title": "badcat",
+    "encore": false
+   },
+   {
+    "title": "むかしかってた ねこの みーちゃん",
+    "encore": false
+   },
+   {
+    "title": "貴方の恋人になりたい",
+    "encore": false
+   },
+   {
+    "title": "swan",
+    "encore": false
+   },
+   {
+    "title": "Firetail",
+    "encore": false
+   },
+   {
+    "title": "青の魔法",
+    "encore": false
+   },
+   {
+    "title": "ナイトメアリー",
+    "encore": true
+   }
+  ],
+  "note": "결성 6주년 공연. 미발표 신곡 다수 포함"
+ },
+ {
+  "folder": "Conton Candy - ALL",
+  "status": "ok",
+  "event": "Conton Candy ONEMAN TOUR 2026 \"すっぴん\"",
+  "date": "2026-07-12",
+  "venue": "Zepp Shinjuku",
+  "city": "Tokyo",
+  "source_url": "https://www.livefans.jp/events/1880745",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "急行券とリズム",
+    "encore": false
+   },
+   {
+    "title": "Touring",
+    "encore": false
+   },
+   {
+    "title": "思い出は海風のように",
+    "encore": false
+   },
+   {
+    "title": "リップシンク",
+    "encore": false
+   },
+   {
+    "title": "ファジーネーブル",
+    "encore": false
+   },
+   {
+    "title": "濁り",
+    "encore": false
+   },
+   {
+    "title": "フルムーンライクアキャットアイ",
+    "encore": false
+   },
+   {
+    "title": "普通",
+    "encore": false
+   },
+   {
+    "title": "レイニーデイ",
+    "encore": false
+   },
+   {
+    "title": "OTAGAISAMA",
+    "encore": false
+   },
+   {
+    "title": "ロングスカートは靡いて",
+    "encore": false
+   },
+   {
+    "title": "スノウドロップ",
+    "encore": false
+   },
+   {
+    "title": "102号室",
+    "encore": false
+   },
+   {
+    "title": "爪",
+    "encore": false
+   },
+   {
+    "title": "傷",
+    "encore": false
+   },
+   {
+    "title": "傷",
+    "encore": false
+   },
+   {
+    "title": "ライブハウス!",
+    "encore": false
+   },
+   {
+    "title": "国道20号",
+    "encore": false
+   },
+   {
+    "title": "Rookies",
+    "encore": true
+   },
+   {
+    "title": "好きなものは手のひらの中",
+    "encore": true
+   }
+  ],
+  "note": "원맨 투어. 「傷」은 두 번 연주"
+ },
+ {
+  "folder": "amazarashi - ALL",
+  "status": "ok",
+  "event": "amazarashi ASIA TOUR 2026 「生活の果てに音楽が鳴る」- Music bears Life -",
+  "date": "2026-06-03",
+  "venue": "SGC HALL ARIAKE",
+  "city": "Tokyo",
+  "source_url": "https://www.livefans.jp/events/1877754",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "収容室",
+    "encore": false
+   },
+   {
+    "title": "ナイトメア",
+    "encore": false
+   },
+   {
+    "title": "どうなったって",
+    "encore": false
+   },
+   {
+    "title": "無題",
+    "encore": false
+   },
+   {
+    "title": "季節は次々死んでいく",
+    "encore": false
+   },
+   {
+    "title": "帰ってこいよ",
+    "encore": false
+   },
+   {
+    "title": "空に歌えば",
+    "encore": false
+   },
+   {
+    "title": "痛覚",
+    "encore": false
+   },
+   {
+    "title": "ワードプロセッサー",
+    "encore": false
+   },
+   {
+    "title": "空洞空洞",
+    "encore": false
+   },
+   {
+    "title": "たられば",
+    "encore": false
+   },
+   {
+    "title": "カルマ",
+    "encore": false
+   },
+   {
+    "title": "さよならごっこ",
+    "encore": false
+   },
+   {
+    "title": "僕が死のうと思ったのは",
+    "encore": false
+   },
+   {
+    "title": "アンチノミー",
+    "encore": false
+   },
+   {
+    "title": "スターライト",
+    "encore": false
+   },
+   {
+    "title": "生活の果てに音楽が鳴る",
+    "encore": false
+   },
+   {
+    "title": "クラウン新車で買ってあげる",
+    "encore": false
+   }
+  ],
+  "note": "아시아 투어 도쿄 공연. 앙코르 표시 없음"
+ },
+ {
+  "folder": "水樹奈々 - ALL",
+  "status": "ok",
+  "event": "NANA MIZUKI LIVE GRACE 2026 -OPUS Ⅳ-",
+  "date": "2026-09-23",
+  "venue": "国立代々木競技場 第一体育館",
+  "city": "Tokyo",
+  "source_url": "https://live-setlist.hatenablog.com/entry/mizukinana-yoyogi-2026-9",
+  "source_type": "blog",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "Destiny's Prelude",
+    "encore": false
+   },
+   {
+    "title": "禁断のレジスタンス",
+    "encore": false
+   },
+   {
+    "title": "NEXT ARCADIA",
+    "encore": false
+   },
+   {
+    "title": "Angel Blossom",
+    "encore": false
+   },
+   {
+    "title": "No Limit",
+    "encore": false
+   },
+   {
+    "title": "Friday Night Fever",
+    "encore": false
+   },
+   {
+    "title": "Nightfall",
+    "encore": false
+   },
+   {
+    "title": "シャレード (Acoustic ver.)",
+    "encore": false
+   },
+   {
+    "title": "空時計 (Acoustic ver.)",
+    "encore": false
+   },
+   {
+    "title": "innocent starter (-MUSEUM STYLE-)",
+    "encore": false
+   },
+   {
+    "title": "7COLORS (Acoustic ver.)",
+    "encore": false
+   },
+   {
+    "title": "Trinity Cross",
+    "encore": false
+   },
+   {
+    "title": "TESTAMENT",
+    "encore": false
+   },
+   {
+    "title": "終末のラブソング",
+    "encore": false
+   },
+   {
+    "title": "Anchor Flame",
+    "encore": false
+   },
+   {
+    "title": "ETERNAL BLAZE",
+    "encore": false
+   },
+   {
+    "title": "FINAL COMMANDER",
+    "encore": false
+   },
+   {
+    "title": "星空と月と花火の下",
+    "encore": false
+   },
+   {
+    "title": "CRIMSON BULLET",
+    "encore": true
+   },
+   {
+    "title": "暁の星",
+    "encore": true
+   },
+   {
+    "title": "SUPER GENERATION",
+    "encore": true
+   },
+   {
+    "title": "あの日夢見た願い (Quartet ver.)",
+    "encore": true
+   }
+  ],
+  "note": "이틀 공연 중 둘째 날. 어쿠스틱 등 편곡 버전 포함"
+ },
+ {
+  "folder": "鈴木このみ - ALL",
+  "status": "ok",
+  "event": "鈴木このみ Live 2026 ～Anison Collection+～",
+  "date": "2026-11-07",
+  "venue": "SGC HALL ARIAKE",
+  "city": "Tokyo",
+  "source_url": "https://motoryokoblog.com/?p=51393",
+  "source_type": "blog",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "CHOIR JAIL",
+    "encore": false
+   },
+   {
+    "title": "Realize",
+    "encore": false
+   },
+   {
+    "title": "命の灯火",
+    "encore": false
+   },
+   {
+    "title": "Lasting Moment",
+    "encore": false
+   },
+   {
+    "title": "君色、僕色 feat. 小林裕介",
+    "encore": false
+   },
+   {
+    "title": "銀閃の風",
+    "encore": false
+   },
+   {
+    "title": "アルカテイル",
+    "encore": false
+   },
+   {
+    "title": "流星鎮魂歌",
+    "encore": false
+   },
+   {
+    "title": "Recollect",
+    "encore": false
+   },
+   {
+    "title": "Redo",
+    "encore": false
+   },
+   {
+    "title": "強気MAX宣言",
+    "encore": false
+   },
+   {
+    "title": "Secret Code",
+    "encore": false
+   },
+   {
+    "title": "Theater of Life",
+    "encore": false
+   },
+   {
+    "title": "Beat your Heart",
+    "encore": false
+   },
+   {
+    "title": "Love? Reason why!!",
+    "encore": false
+   },
+   {
+    "title": "Bursty Greedy Spider",
+    "encore": false
+   },
+   {
+    "title": "頑張れと叫ぶたび",
+    "encore": true
+   },
+   {
+    "title": "AVENGE WORLD",
+    "encore": true
+   },
+   {
+    "title": "This game",
+    "encore": true
+   },
+   {
+    "title": "DAYS of DASH",
+    "encore": true
+   }
+  ],
+  "note": "애니송 커버 중심 공연"
+ },
+ {
+  "folder": "大塚愛 - ALL",
+  "status": "ok",
+  "event": "大塚 愛 LOVE IS BORN ～23rd Anniversary 2026～",
+  "date": "2026-09-12",
+  "venue": "TACHIKAWA STAGE GARDEN",
+  "city": "Tokyo (Tachikawa)",
+  "source_url": "https://www.livefans.jp/events/1923665",
+  "source_type": "livefans",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "人形",
+    "encore": false
+   },
+   {
+    "title": "黒毛和牛上塩タン焼680円",
+    "encore": false
+   },
+   {
+    "title": "HEART",
+    "encore": false
+   },
+   {
+    "title": "私",
+    "encore": false
+   },
+   {
+    "title": "ふたつ星記念日 ～新婚日和～",
+    "encore": false
+   },
+   {
+    "title": "Hello me",
+    "encore": false
+   },
+   {
+    "title": "桃ノ花ビラ",
+    "encore": false
+   },
+   {
+    "title": "プラネタリウム",
+    "encore": false
+   },
+   {
+    "title": "Birthday Song",
+    "encore": false
+   },
+   {
+    "title": "サクラハラハラ",
+    "encore": false
+   },
+   {
+    "title": "アクション10.5",
+    "encore": false
+   },
+   {
+    "title": "グッバイ蕎麦",
+    "encore": false
+   },
+   {
+    "title": "I'm lonely",
+    "encore": false
+   },
+   {
+    "title": "なんだっけ",
+    "encore": false
+   },
+   {
+    "title": "タイムマシーン",
+    "encore": false
+   },
+   {
+    "title": "骨骨",
+    "encore": true
+   },
+   {
+    "title": "kit palette",
+    "encore": true
+   },
+   {
+    "title": "さくらんぼ",
+    "encore": true
+   }
+  ],
+  "note": "23주년 공연"
+ },
+ {
+  "folder": "星街すいせい - ALL",
+  "status": "ok",
+  "event": "HOSHIMACHI SUISEI ARENA TOUR 2026 \"Once Upon a Stellar\"",
+  "date": "2026-11-12",
+  "venue": "マリンメッセ福岡A館",
+  "city": "Fukuoka",
+  "source_url": "https://db.holoplayer.jp/live/suisei-arena-tour",
+  "source_type": "blog",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "プリマドンナ",
+    "encore": false
+   },
+   {
+    "title": "GUM & DROP",
+    "encore": false
+   },
+   {
+    "title": "Je t'aime。",
+    "encore": false
+   },
+   {
+    "title": "Damn Good Day",
+    "encore": false
+   },
+   {
+    "title": "天球、彗星は夜を跨いで",
+    "encore": false
+   },
+   {
+    "title": "もうどうなってもいいや",
+    "encore": false
+   },
+   {
+    "title": "Caramel Pain",
+    "encore": false
+   },
+   {
+    "title": "デビュタントボール",
+    "encore": false
+   },
+   {
+    "title": "ムーンライト",
+    "encore": false
+   },
+   {
+    "title": "放送室",
+    "encore": false
+   },
+   {
+    "title": "綺麗事",
+    "encore": false
+   },
+   {
+    "title": "TEMPLATE",
+    "encore": false
+   },
+   {
+    "title": "灼熱にて純情 (wii-wii-woo)",
+    "encore": false
+   },
+   {
+    "title": "AWAKE",
+    "encore": false
+   },
+   {
+    "title": "先駆者",
+    "encore": false
+   },
+   {
+    "title": "Orbital Period",
+    "encore": false
+   },
+   {
+    "title": "GHOST",
+    "encore": false
+   },
+   {
+    "title": "ソワレ",
+    "encore": false
+   },
+   {
+    "title": "ビビデバ",
+    "encore": false
+   },
+   {
+    "title": "Stellar Stellar",
+    "encore": false
+   },
+   {
+    "title": "だって僕は",
+    "encore": false
+   }
+  ],
+  "note": "아레나 투어 파이널"
+ },
+ {
+  "folder": "きゃりーぱみゅぱみゅ - ALL",
+  "status": "ok",
+  "event": "きゃりーぱみゅぱみゅ ワンマンLIVE 2025 dreamin dreamin",
+  "date": "2025-10-25",
+  "venue": "LINE CUBE SHIBUYA",
+  "city": "Tokyo",
+  "source_url": "https://livevault.jp/concerts/041dc866",
+  "source_type": "blog",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "dreamin dreamin",
+    "encore": false
+   },
+   {
+    "title": "コスメティックコースター",
+    "encore": false
+   },
+   {
+    "title": "つけまつける",
+    "encore": false
+   },
+   {
+    "title": "キズナミ",
+    "encore": false
+   },
+   {
+    "title": "OEDOEDO",
+    "encore": false
+   },
+   {
+    "title": "100%のじぶんに",
+    "encore": false
+   },
+   {
+    "title": "キミに100パーセント",
+    "encore": false
+   },
+   {
+    "title": "CANDY CANDY",
+    "encore": false
+   },
+   {
+    "title": "とどけぱんち",
+    "encore": false
+   },
+   {
+    "title": "ちゃみ ちゃみ ちゃーみん",
+    "encore": false
+   },
+   {
+    "title": "キャンディーレーサー",
+    "encore": false
+   },
+   {
+    "title": "み",
+    "encore": false
+   },
+   {
+    "title": "ふりそでーしょん",
+    "encore": false
+   },
+   {
+    "title": "演歌ナトリウム",
+    "encore": false
+   },
+   {
+    "title": "KURUKURU HARAJUKU",
+    "encore": false
+   },
+   {
+    "title": "もんだいガール",
+    "encore": false
+   },
+   {
+    "title": "ファッションモンスター",
+    "encore": false
+   },
+   {
+    "title": "原宿いやほい",
+    "encore": false
+   },
+   {
+    "title": "もったいないとらんど",
+    "encore": false
+   },
+   {
+    "title": "おやすみ",
+    "encore": false
+   },
+   {
+    "title": "PONPONPON",
+    "encore": true
+   },
+   {
+    "title": "ファミリーパーティー",
+    "encore": true
+   }
+  ],
+  "note": "마지막 단독 원맨. 2026년에는 자체 페스·미니 라이브만 있음"
+ },
+ {
+  "folder": "にしな - ALL",
+  "status": "ok",
+  "event": "にしな ツアー2026「日々散漫」",
+  "date": "2026-05-23",
+  "venue": "仙台Rensa",
+  "city": "Sendai",
+  "source_url": "https://www.livefans.jp/events/1846784",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "U+",
+    "encore": false
+   },
+   {
+    "title": "in your eyes",
+    "encore": false
+   },
+   {
+    "title": "ドレスコード",
+    "encore": false
+   },
+   {
+    "title": "今日も今日とて(remix)",
+    "encore": false
+   },
+   {
+    "title": "東京マーブル",
+    "encore": false
+   },
+   {
+    "title": "スローモーション",
+    "encore": false
+   },
+   {
+    "title": "真白",
+    "encore": false
+   },
+   {
+    "title": "婀娜婀娜",
+    "encore": false
+   },
+   {
+    "title": "音になっていくよ",
+    "encore": false
+   },
+   {
+    "title": "bugs",
+    "encore": false
+   },
+   {
+    "title": "ワンルーム",
+    "encore": false
+   },
+   {
+    "title": "つくし",
+    "encore": false
+   },
+   {
+    "title": "weekly",
+    "encore": false
+   },
+   {
+    "title": "ケダモノのフレンズ",
+    "encore": false
+   },
+   {
+    "title": "パンダガール",
+    "encore": false
+   },
+   {
+    "title": "クランベリージャムをかけて",
+    "encore": false
+   },
+   {
+    "title": "シュガースポット",
+    "encore": false
+   },
+   {
+    "title": "ねこぜ",
+    "encore": false
+   },
+   {
+    "title": "グローリー",
+    "encore": false
+   },
+   {
+    "title": "わをん",
+    "encore": false
+   },
+   {
+    "title": "ヘビースモーク",
+    "encore": true
+   },
+   {
+    "title": "It's a piece of cake",
+    "encore": true
+   },
+   {
+    "title": "Twinkle Little Star",
+    "encore": true
+   }
+  ],
+  "note": "투어 센다이 공연. 파이널은 셋리스트가 공개되지 않음"
+ },
+ {
+  "folder": "結束バンド - ALL",
+  "status": "ok",
+  "event": "SHELTER 35th Anniversary Finale \"ZeppがSHELTERになります\" DAY1 (結束バンド one-man)",
+  "date": "2026-11-01",
+  "venue": "Zepp DiverCity (TOKYO)",
+  "city": "Tokyo",
+  "source_url": "https://www.setlist.fm/setlist/kessoku-band/2026/zepp-divercity-tokyo-tokyo-japan-6b703ace.html",
+  "source_type": "setlist.fm",
+  "confidence": "high",
+  "songs": [
+   {
+    "title": "ひとりぼっち東京",
+    "encore": false
+   },
+   {
+    "title": "青春コンプレックス",
+    "encore": false
+   },
+   {
+    "title": "ラブソングが歌えない",
+    "encore": false
+   },
+   {
+    "title": "カラカラ",
+    "encore": false
+   },
+   {
+    "title": "僕と三原色",
+    "encore": false
+   },
+   {
+    "title": "ひみつ基地",
+    "encore": false
+   },
+   {
+    "title": "小さな海",
+    "encore": false
+   },
+   {
+    "title": "なにが悪い",
+    "encore": false
+   },
+   {
+    "title": "転がる岩、君に朝が降る",
+    "encore": false
+   },
+   {
+    "title": "ギターと孤独と蒼い惑星",
+    "encore": false
+   },
+   {
+    "title": "あのバンド",
+    "encore": false
+   },
+   {
+    "title": "ドッペルゲンガー",
+    "encore": false
+   },
+   {
+    "title": "夢を束ねて",
+    "encore": true
+   },
+   {
+    "title": "milky way",
+    "encore": true
+   },
+   {
+    "title": "惑う星",
+    "encore": true
+   },
+   {
+    "title": "UNITE",
+    "encore": true
+   },
+   {
+    "title": "星座になれたら",
+    "encore": true
+   },
+   {
+    "title": "光の中へ",
+    "encore": true
+   }
+  ],
+  "note": "SHELTER 35주년 피날레 첫날, 성우 4인 원맨"
+ },
+ {
+  "folder": "CANDY TUNE - ALL",
+  "status": "ok",
+  "event": "CANDY TUNE tour \"CANDY CIRCUS\"",
+  "date": "2026-11-12",
+  "venue": "Hiroshima Bunka Gakuen HBG Hall",
+  "city": "Hiroshima",
+  "source_url": "https://www.setlist.fm/setlist/candy-tune/2026/hiroshima-bunka-gakuen-hbg-hall-hiroshima-japan-7b751254.html",
+  "source_type": "setlist.fm",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "Bai Bai FIGHT!",
+    "encore": false,
+    "repo_title": "倍倍FIGHT!"
+   },
+   {
+    "title": "HOT!SCOOP!",
+    "encore": false,
+    "repo_title": "HOT!SCOOP!"
+   },
+   {
+    "title": "CuCuCuCute",
+    "encore": false,
+    "repo_title": "きゅきゅきゅキュート"
+   },
+   {
+    "title": "Zettai Kyanchuu Sengen!",
+    "encore": false,
+    "repo_title": "絶対きゃんちゅー宣言っ！"
+   },
+   {
+    "title": "Soui♡So Free",
+    "encore": false,
+    "repo_title": "総意♡So Free"
+   },
+   {
+    "title": "Super Yuushou Tune!",
+    "encore": false,
+    "repo_title": "すーぱー優勝ちゅーーん！"
+   },
+   {
+    "title": "HTAG",
+    "encore": false,
+    "repo_title": "HTAG"
+   },
+   {
+    "title": "Sonaeareba Moumantai",
+    "encore": false,
+    "repo_title": "備えあれば無問題"
+   },
+   {
+    "title": "Eien Twilight",
+    "encore": false,
+    "repo_title": "永遠Twilight"
+   },
+   {
+    "title": "Kimi mo Zombie desu ka Zombie desu ne",
+    "encore": false,
+    "repo_title": "君もゾンビですか ゾンビですね"
+   },
+   {
+    "title": "Mitsukete",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Dear Rose",
+    "encore": false,
+    "repo_title": "Dear Rose"
+   },
+   {
+    "title": "Uninstall Chu",
+    "encore": false,
+    "repo_title": "アンインストールちゅー"
+   },
+   {
+    "title": "Daisekai Everyday",
+    "encore": false,
+    "repo_title": "大正解Everyday"
+   },
+   {
+    "title": "Shutdown!",
+    "encore": false,
+    "repo_title": "シャットダウン！"
+   },
+   {
+    "title": "HAPPY BOUNCE BIRTHDAY",
+    "encore": false,
+    "repo_title": "HAPPY BOUNCE BIRTHDAY"
+   },
+   {
+    "title": "WAO! Aoharu!",
+    "encore": false,
+    "repo_title": "WAO!アオハル!"
+   },
+   {
+    "title": "hanamaru",
+    "encore": false,
+    "repo_title": "hanamaru"
+   },
+   {
+    "title": "Ai Shichattemasu♡",
+    "encore": false,
+    "repo_title": "アイしちゃってます"
+   },
+   {
+    "title": "Et cetera LOVE YOU",
+    "encore": false,
+    "repo_title": "エトセトLOVE YOU"
+   },
+   {
+    "title": "Special Kanshasai",
+    "encore": true,
+    "repo_title": "スペシャル感謝祭"
+   },
+   {
+    "title": "Soui♡So Free",
+    "encore": true,
+    "repo_title": "総意♡So Free"
+   },
+   {
+    "title": "Kiss Me Patissier",
+    "encore": true,
+    "repo_title": "キス・ミー・パティシエ"
+   }
+  ],
+  "note": "투어 히로시마 공연"
+ },
+ {
+  "folder": "CUTIE STREET - ALL",
+  "status": "ok",
+  "event": "CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN- \"CUTIE LAND\"",
+  "date": "2026-11-14",
+  "venue": "Hiroshima Green Arena",
+  "city": "Hiroshima",
+  "source_url": "https://www.setlist.fm/setlist/cutie-street/2026/hiroshima-green-arena-hiroshima-japan-3b75ecd4.html",
+  "source_type": "setlist.fm",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "Nice da ne",
+    "encore": false,
+    "repo_title": "ナイスだね"
+   },
+   {
+    "title": "Yumemiru Prima Donna",
+    "encore": false,
+    "repo_title": "Dreaming Prima Donna"
+   },
+   {
+    "title": "Kawaii Sagashite Kuremasu ka?",
+    "encore": false,
+    "repo_title": "Can You Find Our Cuteness_ -Kawaii Sagashite Kuremasuka_-"
+   },
+   {
+    "title": "Hitamuki Cinderella!",
+    "encore": false,
+    "repo_title": "Devoted Cinderella!"
+   },
+   {
+    "title": "Chikyuu Makeup Keikaku",
+    "encore": false,
+    "repo_title": "The project of the earth-makeup"
+   },
+   {
+    "title": "Oyasumi Siren Night",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Love Train",
+    "encore": false,
+    "repo_title": "LOVE TRAIN"
+   },
+   {
+    "title": "Purikyukyu",
+    "encore": false,
+    "repo_title": "Pri Kyu Kyu"
+   },
+   {
+    "title": "TREASURES",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Haru Flake",
+    "encore": false,
+    "repo_title": "Haru Flake"
+   },
+   {
+    "title": "Tagen Koufukuron",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Chotto Hitosaji",
+    "encore": false,
+    "repo_title": "A Little Spoonful"
+   },
+   {
+    "title": "Kai",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Party Time",
+    "encore": false,
+    "repo_title": null
+   },
+   {
+    "title": "Homemaku Rhythm",
+    "encore": false,
+    "repo_title": "ホメマクリズム"
+   },
+   {
+    "title": "Kyuu ni Stop Dekimasen!",
+    "encore": false,
+    "repo_title": "We can't stop suddenly!"
+   },
+   {
+    "title": "Gohoubi Shiyo!",
+    "encore": false,
+    "repo_title": "ご褒美しよっ!"
+   },
+   {
+    "title": "Error404♡",
+    "encore": false,
+    "repo_title": "Error404♡"
+   },
+   {
+    "title": "Happy Sekai!",
+    "encore": false,
+    "repo_title": "Happy World!"
+   },
+   {
+    "title": "Cute na Kyuutai",
+    "encore": false,
+    "repo_title": "キュートなキューたい"
+   },
+   {
+    "title": "Discommutant!",
+    "encore": false,
+    "repo_title": "Discommutant!"
+   },
+   {
+    "title": "Top of the top",
+    "encore": false,
+    "repo_title": "Top of the top"
+   },
+   {
+    "title": "Kawaii dake ja Dame Desu ka?",
+    "encore": false,
+    "repo_title": "Can't we just be cute_ -Kawaii Dakejya Damedesuka_-"
+   },
+   {
+    "title": "Gohoubi Shiyo!",
+    "encore": true,
+    "repo_title": "ご褒美しよっ!"
+   },
+   {
+    "title": "Top of the top",
+    "encore": true,
+    "repo_title": "Top of the top"
+   }
+  ],
+  "note": "아레나 투어 히로시마 첫날"
+ },
+ {
+  "folder": "NOMELON NOLEMON - ALL",
+  "status": "ok",
+  "event": "NOMELON NOLEMON 5th Anniversary Live \"DOCUMENTARIUM 2026\"",
+  "date": "2026-08-11",
+  "venue": "KT Zepp Yokohama",
+  "city": "Yokohama",
+  "source_url": "https://www.livefans.jp/events/1916467",
+  "source_type": "livefans",
+  "confidence": "medium",
+  "songs": [
+   {
+    "title": "HALO",
+    "encore": false
+   },
+   {
+    "title": "ブリーチ",
+    "encore": false
+   },
+   {
+    "title": "ゴーストキッス",
+    "encore": false
+   },
+   {
+    "title": "ハイド・アンド・シーク",
+    "encore": false
+   },
+   {
+    "title": "ダダ",
+    "encore": false
+   },
+   {
+    "title": "cocoon",
+    "encore": false
+   },
+   {
+    "title": "イエロウ",
+    "encore": false
+   },
+   {
+    "title": "シーグラス",
+    "encore": false
+   },
+   {
+    "title": "KILLERMOON",
+    "encore": false
+   },
+   {
+    "title": "RED",
+    "encore": false
+   },
+   {
+    "title": "syrup",
+    "encore": false
+   },
+   {
+    "title": "ルール",
+    "encore": false
+   },
+   {
+    "title": "SUGAR",
+    "encore": false
+   },
+   {
+    "title": "ミテミテ",
+    "encore": false
+   },
+   {
+    "title": "ユラリユレル",
+    "encore": false
+   },
+   {
+    "title": "ミッドナイト・リフレクション",
+    "encore": false
+   },
+   {
+    "title": "SAYONARA MAYBE",
+    "encore": false
+   },
+   {
+    "title": "雨にうたえば",
+    "encore": false
+   },
+   {
+    "title": "I THINK",
+    "encore": false
+   },
+   {
+    "title": "INAZMA",
+    "encore": false
+   },
+   {
+    "title": "night draw",
+    "encore": true
+   }
+  ],
+  "note": "5주년 원맨"
+ },
+ {
+  "folder": "millsage - ALL",
+  "status": "not_found",
+  "event": null,
+  "date": null,
+  "venue": null,
+  "city": null,
+  "source_url": "https://bandori.miraheze.org/wiki/Millsage/Concerts",
+  "source_type": "blog",
+  "confidence": "high",
+  "songs": [],
+  "note": "New BanG Dream! Our Notes band. Its first one-man 'millsage LIVE 001「極夜」' is 2026-12-25 at Spotify O-WEST, so it has not happened yet. Before that it only appeared as a guest: 2026-03-01 MyGO!!!!!×Ave Mujica 2man 'moment / memory' at K-Arena (起死開戦 only, livefans.jp/events/1846309) and the MyGO!!!!! 9th LIVE DAY1 opening on 2026-07-18. No full setlist exists."
+ },
+ {
+  "folder": "一家Dumb Rock! - ALL",
+  "status": "not_found",
+  "event": null,
+  "date": null,
+  "venue": null,
+  "city": null,
+  "source_url": "https://bandori.miraheze.org/wiki/Ikka_Dumb_Rock!/Concerts",
+  "source_type": "blog",
+  "confidence": "high",
+  "songs": [],
+  "note": "New BanG Dream! Our Notes band. Its first one-man '1st GIG「ピース＆グルーヴ」' is 2026-12-12 at duo MUSIC EXCHANGE, so it has not happened yet. So far it has only appeared as a guest at the 2026-03-01 MyGO!!!!!×Ave Mujica 2man (ホーミー・タイッ!! only, livefans.jp/events/1846309). No full setlist exists."
+ }
+]
